@@ -182,5 +182,6 @@ Nur die letzte Spalte darf geändert / übersetzt werden.
 162|en|OutFlightTS|Please provide a valid departure time. 00:00 is no valid departure time at SXF airport.
 162|de|OutFlightTS|Bitte geben Sie eine gültige Abflugzeit an. 00:00 Uhr ist keine gültige Abflugzeit am Flughafen Schönefeld. 
 163|en|RetFlightTS|Please provide a valid arrival time. 00:00 is no valid arrival time at SXF airport.
-163|de|RetFlightTS|Bitte geben Sie eine gültige Ankunftzeit an. 00:00 Uhr ist keine gültige Ankunftzeit am Flughafen Schönefeld. 
+163|de|RetFlightTS|Bitte geben Sie eine gültige Ankunftzeit an. 00:00 Uhr ist keine gültige Ankunftzeit am Flughafen Schönefeld.
+164|en|BookingMode|Wrong value for BookingMode. Only precheck, completeness and booking are valid values. 
 ```
