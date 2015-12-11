@@ -25,10 +25,6 @@
 | AgbChecked   | J                | Definiert, ob der Gast die AGB gelesen hat und bestätigt. | J                 |
 | PartnerId    | N                | Vermittlungspartner-ID, falls zutreffend | 000000            |
 | TestMode     | N                | Verschiedene Testmodi: **TESTMODE\_NODB** schreibt eine Buchung nicht in die Datenbank. **TESTMODE\_NODB\_PAST** schreibt eine Buchung nicht in die Datenbank, erlaubt auch Buchungsdaten in der Vergangenheit. **TESTMODE\_NODB\_NOCC** schreibt eine Buchung nicht in die Datenbank, sendet keine Mail an dam.Parkservice. | 
-
-&lt;leer&gt;
-
-  |
 | BookingIP    | J                | IP-Adresse desjenigen, der die Buchung durchgeführt hat. | 176.9.199.2       |
 | SessionId    | N                | Session-Id desjenigen, der die Buchung durchgeführt hat. Hilft, Schwierigkeiten im Buchungsprozess zu analysieren. | a572e4522b25895d580 |
 | APIKey       | J                | Individueller API-Key. Für Testzwecke kann TESTMODEREQUEST verwendet werden - dadurch werden keine Datenbankabfragen ausgeführt und keine E-Mails versendet. | TESTMODEREQUEST   |
