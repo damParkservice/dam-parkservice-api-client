@@ -28,3 +28,4 @@
 | BookingIP    | J                | IP-Adresse desjenigen, der die Buchung durchgeführt hat. | 176.9.199.2       |
 | SessionId    | N                | Session-Id desjenigen, der die Buchung durchgeführt hat. Hilft, Schwierigkeiten im Buchungsprozess zu analysieren. | a572e4522b25895d580 |
 | APIKey       | J                | Individueller API-Key. Für Testzwecke kann TESTMODEREQUEST verwendet werden - dadurch werden keine Datenbankabfragen ausgeführt und keine E-Mails versendet. | TESTMODEREQUEST   |
+| BookingMode | J | Gibt an, was genau die aktuelle Abfrage bewirken soll: a) **precheck** = Der Server wertet nur die gesendeten Felder auf Fehler und Probleme aus. Berechnet nach Möglichkeit Preis und Verfügbarkeit. b) **completeness** prüft alle Felder auf Vollständigkeit. Berechnet Preis und Verfügbarkeit. c) **booking** führt einen Buchungsversuch durch. Default-Wert: precheck. | booking |
