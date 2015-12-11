@@ -1,6 +1,6 @@
 # Feldliste (Booking) #
 | **Feldname** | **Pflichtfeld Buchung?** | **Pflichtfeld Precheck?** | **Beschreibung** | **Beispiel-Wert** |
-|:-------------|:-----------------|:-----------------|:------------------|
+|:-------------|:-----------------|:-----------------|:-----------------|:------------------|
 | Language     | N                | N | drei erlaubte Werte: en, de, pl. Default-Wert: en | de                |
 | Salutation   | J                | N |erlaubte Werte: Herr, Frau, Firma, Mr, Mrs, Company, Pan, Pani, Spółka | Herr              |
 | FirstName    | J                | N | mind. 3 Zeichen  | Max               |
