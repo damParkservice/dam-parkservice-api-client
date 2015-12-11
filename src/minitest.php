@@ -1,14 +1,3 @@
-# Code-Beispiel #
-
-Mit diesem Code-Beispiel kann der dam.Parkservice Webservice per PHP serverseitig aufgerufen werden. Eine PHP-Version > 5.3 wird empfohlen.
-
-## Voraussetzungen ##
-Bitte laden Sie die Datei [meinparkenSoapClient.php](http://dam-parkservice-api-client.googlecode.com/files/meinparkenSoapClient.php) aus dem Download-Bereich herunter. Speichern Sie sie im selben Verzeichnis wie die unten angezeigte [minitest.php](http://dam-parkservice-api-client.googlecode.com/files/minitest.php) Datei.
-
-## Code ##
-Dieser Code ist unter dem Dateinamen [minitest.php](http://dam-parkservice-api-client.googlecode.com/files/minitest.php) im Download-Bereich verfügbar.
-
-```
 <?php
 /**
  * Diese Datei testet den Buchungs-Webservice.
@@ -87,4 +76,6 @@ ob_flush();
 
 echo "<br />Im Testmode wird (im Erfolgsfall) immer die Buchungs-Id 1 zurückgegeben, bei mehreren Fahrzeugen mehrmals die 1.";
 
-```
+
+
+
