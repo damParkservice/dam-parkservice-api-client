@@ -8,7 +8,7 @@ Die API kann beispielsweise für Reservierungen von Fremdwebsites aus, mobilen A
 
 ##Technik
 
-Es steht ein SOAP Webservice zur Verfügung. Die WSDL-Datei befindet sich hier: http://api.parkplusfly-sxf.de/soap/meinparken.wsdl. Die Schnittstelle benötigt Daten wie Name und Flugdaten - und gibt entweder die ID der Buchung oder eine bis mehrere aus einer Reihe von definierten Fehlermeldungen zurück. Die Felder des Webservices sind hier beschrieben: Feldliste
+Es steht ein SOAP Webservice zur Verfügung. Die WSDL-Datei befindet sich hier: http://api.parkplusfly-sxf.de/soap/meinparken.wsdl. Die Schnittstelle benötigt Daten wie Name und Flugdaten - und gibt entweder die ID der Buchung oder eine bis mehrere aus einer Reihe von definierten Fehlermeldungen zurück. Die Felder des Webservices sind hier beschrieben: [Feldliste](https://github.com/damParkservice/dam-parkservice-api-client/blob/master/wiki/BookingFeldliste.md)
 
 ##Prozess
 Der Webservice kennt drei Modi: **precheck**, **completeness** und **booking**.
@@ -43,7 +43,7 @@ Für Einsteiger steht hier ein PHP-Codebeispiel zur Verfügung.
 
     2013-03-30 Veröffentlichung des Codes
     2013-05-27 Neues, optionales Feld VoucherCode? für Rabatt-Aktionen 
-    2015-12-11 Neues Feld BookingMode und Teildatenübermittlung
+    2015-12-11 Neues Feld BookingMode und Teildatenübermittlung. Umzug zu Github.
 
 ##Credits
 
