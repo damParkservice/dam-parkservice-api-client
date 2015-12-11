@@ -35,7 +35,7 @@ Die an den Webservice gesendeten Requests sind verbindliche Reservierungsanfrage
 
 ##Nutzung (produktiv)
 
-Zur Nutzung der API wird ein API-Key benötigt. Diesen erhalten Sie auf Anfrage bei dam.Parkservice. Für erste Tests kann der Key TESTMODEREQUEST verwendet werden.
+Zur Nutzung der API wird ein API-Key benötigt. Diesen erhalten Sie auf Anfrage bei [dam.Parkservice](http://www.mein-parken.de). Für erste Tests kann der Key TESTMODEREQUEST verwendet werden.
 
 ##Howto
 
@@ -49,4 +49,4 @@ Für Einsteiger steht [hier](https://github.com/damParkservice/dam-parkservice-a
 
 ##Credits
 
-Wir haben zur Erstellung der WSDL-Datei, der Webservice-Dokumentation und der PHP Client Dateien den php-wsdl-creator verwendet. Vielen Dank den Autoren für dieses überaus hilfreiche Tool! 
+Wir haben zur Erstellung der WSDL-Datei, der Webservice-Dokumentation und der PHP Client Dateien den [php-wsdl-creator](http://code.google.com/p/php-wsdl-creator/) verwendet. Vielen Dank den Autoren für dieses überaus hilfreiche Tool! 
