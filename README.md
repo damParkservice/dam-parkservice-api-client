@@ -37,7 +37,7 @@ Zur Nutzung der API wird ein API-Key benötigt. Diesen erhalten Sie auf Anfrage 
 
 ##Howto
 
-Für Einsteiger steht hier ein PHP-Codebeispiel zur Verfügung.
+Für Einsteiger steht [hier](https://github.com/damParkservice/dam-parkservice-api-client/blob/master/wiki/CodeBeispielPHP.md) ein [PHP-Codebeispiel](https://github.com/damParkservice/dam-parkservice-api-client/blob/master/wiki/CodeBeispielPHP.md) zur Verfügung.
 
 ##Changelog
 
