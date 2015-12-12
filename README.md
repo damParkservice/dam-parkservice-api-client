@@ -51,3 +51,5 @@ Für Einsteiger steht [hier](https://github.com/damParkservice/dam-parkservice-a
 ##Credits
 
 Wir haben zur Erstellung der WSDL-Datei, der Webservice-Dokumentation und der PHP Client Dateien den [php-wsdl-creator](http://code.google.com/p/php-wsdl-creator/) verwendet. Vielen Dank den Autoren für dieses überaus hilfreiche Tool! 
+
+Die Lösung wurde durch [Line5](http://www.line5.de) implementiert. 
