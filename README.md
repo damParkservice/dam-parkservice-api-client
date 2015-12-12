@@ -46,6 +46,7 @@ Für Einsteiger steht [hier](https://github.com/damParkservice/dam-parkservice-a
     2013-03-30 Veröffentlichung des Codes
     2013-05-27 Neues, optionales Feld VoucherCode? für Rabatt-Aktionen 
     2015-12-11 Neues Feld BookingMode und Teildatenübermittlung. Umzug zu Github.
+    2015-12-12 Release Version 2.0. Dokumentation Rückgabewerte.
 
 ##Credits
 
