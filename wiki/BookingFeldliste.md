@@ -10,7 +10,7 @@
 | ZIP          | N                | N | Postleitzahl (max. 10 Zeichen) | 12529             |
 | MobilePhone  | J                | N | Mobiltelefon. Wichtig, damit der Gast erreicht werden kann, falls sich beispielsweise Flugzeiten ändern. | 030 633 110 633   |
 | Email        | J                | N | E-Mail Adresse des Gastes. An diese werden eine Eingangsbestätigung und eine automatische Bestätigung versendet. | info@mein-parken.de |
-| NumberPlate  | J                | N | Kennzeichen des zu parkenden Fahrzeuges. Falls es um ein Mietfahrzeug geht, kann auch ein imaginäres Kennzeichen eingegeben werden. | B-Ü 123           |
+| NumberPlate  | N                | N | Kennzeichen des zu parkenden Fahrzeuges. Falls es um ein Mietfahrzeug geht, kann auch ein imaginäres Kennzeichen eingegeben werden. | B-Ü 123           |
 | VoucherCode  | N                | N | Gutscheincode - bei Rabattaktionen (max. 20 Zeichen). | TEST              |
 | OutFlightTS  | J                | N | Timestamp - Abflugzeit des Hinfluges (Format: YYYY-MM-DD HH:MM:SS). Die Uhrzeit 00:00 Uhr ist kein gültiger Wert. | N | 2014-02-01 14:00:00 |
 | OutFlightNo  | J                | N | Flugnummer des Hinfluges - damit der Parkplatzbetreiber bei Flugverspätungen automatisch reagieren kann | LH123             |
