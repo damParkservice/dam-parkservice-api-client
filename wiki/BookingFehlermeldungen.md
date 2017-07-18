@@ -59,9 +59,9 @@ Nur die letzte Spalte darf geändert / übersetzt werden.
 121|en|Email|e-mail contains invalid characters.
 121|de|Email|Die E-Mail Adresse enthält ungültige Zeichen. 
 121|pl|Email|Adres E-Mail zawiera niewazne znaki.
-122|en|NumberPlate|Please provide your number plate (3-20 characters).
-122|de|NumberPlate|Bitte geben Sie das Kennzeichen des Fahrzeuges an (3-20 Zeichen).
-122|pl|NumberPlate|Prosze podac numer rejestracyjny samochodu (3-20 znaków).
+122|en|NumberPlate|Please provide your number plate (< 20 characters).
+122|de|NumberPlate|Bitte geben Sie das Kennzeichen des Fahrzeuges an (< 20 Zeichen).
+122|pl|NumberPlate|Prosze podac numer rejestracyjny samochodu (< 20 znaków).
 123|en|NumberPlate|Number plate contains invalid characters.
 123|de|NumberPlate|Das Kennzeichen enthält ungültige Zeichen.
 123|pl|NumberPlate|Numer rejestracyjny samochodu zawiera niewazne znaki.
